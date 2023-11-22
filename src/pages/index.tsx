@@ -8,6 +8,7 @@ export default function Home() {
   return (
     <Box>
       <Text>Hello World!</Text>
+      <Text>Good night</Text>
     </Box>
   );
 }
